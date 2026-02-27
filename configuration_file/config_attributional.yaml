@@ -1,0 +1,596 @@
+# Configuration file for custom scenarios for `premise`
+# RTE Futurs énergétiques
+# https://www.rte-france.com/analyses-tendances-et-prospectives/bilan-previsionnel-2050-futurs-energetiques
+
+---
+
+production pathways:
+  
+  hydro_run_of_river:
+    production volume:
+      variable: Production|Electricity|Run-of-river hydro
+    ecoinvent alias:
+      name: electricity production, hydro, run-of-river
+      reference product: electricity, high voltage
+      exists in original database: True
+ 
+  hydro_reservoir:
+    production volume:
+      variable: Production|Electricity|Reservoir
+    ecoinvent alias:
+      name: electricity production, hydro, reservoir, alpine region
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  hydro_pumped:
+    production volume:
+      variable: Production|Electricity|Pumped storage hydro
+    ecoinvent alias:
+      name: electricity production, hydro, pumped storage
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  wind_onshore:
+    production volume:
+      variable: Production|Electricity|Renewable|Wind turbines|Onshore
+    ecoinvent alias:
+      name: electricity production, wind, 1-3MW turbine, onshore
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  wind_offshore:
+    production volume:
+      variable: Production|Electricity|Renewable|Wind turbines|Offshore
+    ecoinvent alias:
+      name: electricity production, wind, 1-3MW turbine, offshore
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  photovoltaic:
+    production volume:
+      variable: Production|Electricity|Renewable|Photovoltaic
+    ecoinvent alias:
+      name: electricity production, photovoltaic, commercial
+      reference product: electricity, low voltage
+      exists in original database: True
+
+  biomass:
+    production volume:
+      variable: Production|Electricity|Renewable|Biomass
+    ecoinvent alias:
+      name: electricity production, wood, future
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  biogas:
+    production volume:
+      variable: Production|Electricity|Renewable|Biogas
+    ecoinvent alias:
+      name: heat and power co-generation, biogas, gas engine
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  wave:
+    production volume:
+      variable: Production|Electricity|Renewable|Wave
+    ecoinvent alias:
+      name: electricity production, wave energy converter
+      reference product: electricity, high voltage
+      exists in original database: False
+      new dataset: True
+
+  nuclear_pressure_water:
+    production volume:
+      variable: Production|Electricity|Nuclear|Pressure water reactor
+    ecoinvent alias:
+      name: electricity production, nuclear, pressure water reactor
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  nuclear_epr:
+    production volume:
+      variable: Production|Electricity|Nuclear|Evolutionary power reactor
+    ecoinvent alias:
+      name: electricity production, Evolutionary Power Reactor (EPR)
+      reference product: electricity, high voltage
+      exists in original database: False
+      new dataset: True
+
+  nuclear_smr:
+    production volume:
+      variable: Production|Electricity|Nuclear|Small modular reactor
+    ecoinvent alias:
+      name: electricity production, Small Modular Reactor (SMR)
+      reference product: electricity, high voltage
+      exists in original database: False
+      new dataset: True
+
+  coal:
+    production volume:
+      variable: Production|Electricity|Thermal|Coal
+    ecoinvent alias:
+      name: electricity production, hard coal
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  oil_conventional:
+    production volume:
+      variable: Production|Electricity|Thermal|Oil|Conventional
+    ecoinvent alias:
+      name: electricity production, oil
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  oil_cogen:
+    production volume:
+      variable: Production|Electricity|Thermal|Oil|Cogeneration
+    ecoinvent alias:
+      name: heat and power co-generation, oil
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  gas_ccp:
+    production volume:
+      variable: Production|Electricity|Thermal|Natural gas|CCP
+    ecoinvent alias:
+      name: electricity production, natural gas, combined cycle power plant
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  gas_conventional:
+    production volume:
+      variable: Production|Electricity|Thermal|Natural gas|Conventional
+    ecoinvent alias:
+      name: electricity production, natural gas, conventional power plant
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  gas_cogen:
+    production volume:
+      variable: Production|Electricity|Thermal|Natural gas|Cogeneration
+    ecoinvent alias:
+      name: heat and power co-generation, natural gas, conventional power plant, 100MW electrical
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  hydrogen:
+    production volume:
+      variable: Production|Electricity|Thermal|Hydrogen
+    ecoinvent alias:
+      name: electricity production, from hydrogen-fired one gigawatt gas turbine, RTE2050
+      reference product: electricity, high voltage
+      exists in original database: False
+      new dataset: True
+
+  battery:
+    production volume:
+      variable: Production|Electricity|Flexibilities|Battery
+    ecoinvent alias:
+      name: electricity supply, high voltage, from vanadium-redox flow battery system RTE2050
+      reference product: electricity, high voltage
+      exists in original database: False
+      new dataset: True
+      
+  conventional_waste:
+    production volume:
+      variable: Production|Electricity|Conventional|Waste-to-Energy
+    ecoinvent alias:
+      name: treatment of municipal solid waste, municipal incineration
+      reference product: electricity, for reuse in municipal waste incineration only
+      exists in original database: True
+
+  import:
+    production volume:
+      variable: Production|Electricity|Import
+    ecoinvent alias:
+      name: market group for electricity, high voltage
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  high_to_medium:
+    production volume:
+      variable: Transformation|Electricity|High to medium
+    ecoinvent alias:
+      name: electricity voltage transformation from high to medium voltage
+      reference product: electricity, medium voltage
+      exists in original database: True
+
+  medium_to_low:
+    production volume:
+      variable: Transformation|Electricity|Medium to low
+    ecoinvent alias:
+      name: electricity voltage transformation from medium to low voltage
+      reference product: electricity, low voltage
+      exists in original database: True
+
+  hydrogen aec electrolysis:
+    production volume:
+      variable: Production|Hydrogen|AE
+    ecoinvent alias:
+      exists in original database: false
+      name: hydrogen production, gaseous, AEC electrolysis, 30 bar, domestic, RTE2050
+      reference product: hydrogen, gaseous
+      regionalize: True
+    efficiency:
+      - variable: Efficiency|Hydrogen|AE|Electricity
+        includes:
+          technosphere:
+          - electricity
+      - variable: Efficiency|Hydrogen|AE|Lifespan
+        includes:
+          technosphere:
+          - Stack
+      - variable: Efficiency|Hydrogen|AE|Capacity Factor
+        includes:
+          technosphere:
+          - Stack
+          - Balance of Plant
+      - variable: Efficiency|Hydrogen|AE|Conversion Factor
+        includes:
+          technosphere:
+          - stack
+          - Balance of Plant
+
+  hydrogen pem electrolysis:
+    production volume:
+      variable: Production|Hydrogen|PEM
+    ecoinvent alias:
+      exists in original database: false
+      name: hydrogen production, gaseous, PEM electrolysis, 30 bar, domestic, RTE2050
+      reference product: hydrogen, gaseous
+      regionalize: True
+    efficiency:
+      - variable: Efficiency|Hydrogen|PEM|Electricity
+        includes:
+          technosphere:
+          - electricity
+      - variable: Efficiency|Hydrogen|PEM|Lifespan
+        includes:
+          technosphere:
+          - Stack
+      - variable: Efficiency|Hydrogen|PEM|Capacity Factor
+        includes:
+          technosphere:
+          - Stack
+          - Balance of Plant
+      - variable: Efficiency|Hydrogen|PEM|Conversion Factor
+        includes:
+          technosphere:
+          - stack
+          - Balance of Plant
+
+  hydrogen aec stack:
+    production volume:
+      variable: Production|AE|Stack
+    ecoinvent alias:
+      exists in original database: false
+      name: electrolyzer, AE, Stack
+      reference product: electrolyzer, AE, Stack
+      regionalize: True
+    efficiency:
+      - variable: Efficiency|AE|Stack|Steel
+        includes:
+          technosphere:
+          - market for sheet rolling, chromium steel
+          - market for steel, chromium steel 18/8, hot rolled
+
+  hydrogen pem stack:
+    production volume:
+      variable: Production|PEM|Stack  
+    ecoinvent alias:
+      exists in original database: false
+      name: electrolyzer, PEM, Stack
+      reference product: electrolyzer, PEM, Stack
+      regionalize: True
+    efficiency:
+      - variable: Efficiency|PEM|Stack|Iridium
+        includes:
+          technosphere:
+          - market for iridium
+      - variable: Efficiency|PEM|Stack|Platinum
+        includes:
+          technosphere:
+          - market for platinum
+      - variable: Efficiency|PEM|Stack|Titanium
+        includes:
+          technosphere:
+          - market for titanium
+      - variable: Efficiency|PEM|Stack|Nafion
+        includes:
+          technosphere:
+          - market for tetrafluoroethylene
+          - market for sulfuric acid
+      - variable: Efficiency|PEM|Stack|Activated Carbon
+        includes:
+          technosphere:
+          - market for activated carbon, granular
+      - variable: Efficiency|PEM|Stack|Steel
+        includes:
+          technosphere:
+          - market for steel, chromium steel 18/8, hot rolled
+          - market for sheet rolling, chromium steel
+
+  hydrogen_SMR_NG:
+    production volume:
+      variable: Production|Hydrogen|SMR_NG
+    ecoinvent alias:
+      exists in original database: false
+      name: hydrogen production, gaseous, 25 bar, natural gas SMR w/o CCS
+      reference product: hydrogen, gaseous
+      regionalize: True
+
+  hydrogen_SMR_NG_wCCS:
+    production volume:
+      variable: Production|Hydrogen|SMR_NG_wCCS
+    ecoinvent alias:
+      exists in original database: false
+      name: hydrogen production, gaseous, 25 bar, natural gas SMR w/ CCS
+      reference product: hydrogen, gaseous
+      regionalize: True
+
+  hydrogen_SMR_biogas_wCCU:
+    production volume:
+      variable: Production|Hydrogen|SMR_biogas_wCCU
+    ecoinvent alias:
+      exists in original database: false
+      name: hydrogen production, gaseous, 25 bar, biogas SMR w/ CCU
+      reference product: hydrogen, gaseous
+      regionalize: True
+
+  hydrogen_Methane_Pyrolysis:
+    production volume:
+      variable: Production|Hydrogen|Methane_Pyrolysis
+    ecoinvent alias:
+      exists in original database: false
+      name: hydrogen production, gaseous, 25 bar, from methane pyrolysis
+      reference product: hydrogen, gaseous
+      regionalize: True
+
+  hydrogen_SteamCracking:
+    production volume:
+      variable: Production|Hydrogen|Coproduct_SteamCracking
+    ecoinvent alias:
+      exists in original database: false
+      name: unsaturated hydrocarbons production, steam cracking operation, average
+      reference product: hydrogen, gaseous
+      regionalize: True
+  
+  hydrogen_ChlorAlkali:
+    production volume:
+      variable: Production|Hydrogen|Coproduct_ChlorAlkali
+    ecoinvent alias:
+      exists in original database: false
+      name: chlor-alkali electrolysis, membrane cell
+      reference product: hydrogen, gaseous
+      regionalize: True
+
+  hydrogen generic electrolysis:
+    production volume:
+      variable: Production|Hydrogen|GenericElectrolysis
+    ecoinvent alias:
+      exists in original database: false
+      name: hydrogen production, gaseous, unknown electrolysis, 30 bar, domestic, RTE2050
+      reference product: hydrogen, gaseous
+      regionalize: True
+
+markets:
+
+  - name: market for electricity, high voltage, RTE2050
+    reference product: electricity, high voltage
+    unit: kilowatt hour
+    includes:
+      - hydro_run_of_river
+      - hydro_reservoir
+      - hydro_pumped
+      - wind_onshore
+      - wind_offshore
+      - photovoltaic
+      - biomass
+      - wave
+      - biogas    
+      - nuclear_pressure_water
+      - nuclear_epr
+      - nuclear_smr
+      - coal
+      - oil_conventional
+      - oil_cogen
+      - gas_ccp
+      - gas_conventional
+      - gas_cogen
+      - hydrogen
+      - battery
+      - import
+
+    efficiency:
+      - variable: Compensation for losses|Electricity|High
+
+    add:
+      - name: market for transmission network, electricity, high voltage direct current aerial line
+        reference product: transmission network, electricity, high voltage direct current aerial line
+        amount: 5.65463552361011e-09
+
+      - name: market for transmission network, electricity, high voltage direct current land cable
+        reference product: transmission network, electricity, high voltage direct current land cable
+        amount: 3.86168973903383e-10
+
+      - name: market for transmission network, electricity, high voltage direct current subsea cable
+        reference product: transmission network, electricity, high voltage direct current subsea cable
+        amount: 3.47446976650534e-12
+
+      - name: Dinitrogen monoxide
+        categories: air
+        unit: kilogram
+        amount: 5.0e-06
+
+      - name: Ozone
+        categories: air
+        unit: kilogram
+        amount: 4.15772755242894e-06
+
+    replaces:
+      - name: market for electricity, high voltage
+        product: electricity, high voltage
+        location: FR
+
+      - name: market group for electricity, high voltage
+        product: electricity, high voltage
+        location: WEU
+
+      - name: market group for electricity, high voltage
+        product: electricity, high voltage
+        location: EUR
+
+    replaces in:
+      - location: FR
+
+    except regions:
+      - World
+
+  - name: market for electricity, high voltage w/o import, RTE2050
+    reference product: electricity, high voltage
+    unit: kilowatt hour
+    includes:
+      - hydro_run_of_river
+      - hydro_reservoir
+      - hydro_pumped
+      - wind_onshore
+      - wind_offshore
+      - photovoltaic
+      - biomass
+      - biogas
+      - wave
+      - nuclear_pressure_water
+      - nuclear_epr
+      - nuclear_smr
+      - coal
+      - oil_conventional
+      - gas_ccp
+      - gas_conventional
+      - hydrogen
+      - battery
+
+    efficiency:
+      - variable: Compensation for losses|Electricity|High
+
+    add:
+      - name: market for transmission network, electricity, high voltage direct current aerial line
+        reference product: transmission network, electricity, high voltage direct current aerial line
+        amount: 5.65463552361011e-09
+
+      - name: market for transmission network, electricity, high voltage direct current land cable
+        reference product: transmission network, electricity, high voltage direct current land cable
+        amount: 3.86168973903383e-10
+
+      - name: market for transmission network, electricity, high voltage direct current subsea cable
+        reference product: transmission network, electricity, high voltage direct current subsea cable
+        amount: 3.47446976650534e-12
+
+      - name: Dinitrogen monoxide
+        categories: air
+        unit: kilogram
+        amount: 5.0e-06
+
+      - name: Ozone
+        categories: air
+        unit: kilogram
+        amount: 4.15772755242894e-06
+
+  - name: market for electricity, medium voltage, RTE2050
+    reference product: electricity, medium voltage
+    unit: kilowatt hour
+    includes:
+      - high_to_medium
+      - conventional_waste
+
+    efficiency:
+    - variable: Compensation for losses|Electricity|Medium
+
+    add:
+      - name: market for transmission network, electricity, medium voltage
+        reference product: transmission network, electricity, medium voltage
+        amount: 1.86277676887616e-08
+
+      - name: market for sulfur hexafluoride, liquid
+        reference product: sulfur hexafluoride, liquid
+        unit: kilogram
+        amount: 5.4e-08
+
+      - name: Sulfur hexafluoride
+        categories: air
+        unit: kilogram
+        amount: 5.4e-08
+
+    replaces:
+      - name: market for electricity, medium voltage
+        product: electricity, medium voltage
+        location: FR
+
+      - name: market group for electricity, medium voltage
+        product: electricity, medium voltage
+        location: WEU
+
+      - name: market group for electricity, medium voltage
+        product: electricity, medium voltage
+        location: EUR
+
+    replaces in:
+      - location: FR
+
+    except regions:
+      - World
+
+  - name: market for electricity, low voltage, RTE2050
+    reference product: electricity, low voltage
+    unit: kilowatt hour
+    includes:
+      - medium_to_low
+
+    efficiency:
+      - variable: Compensation for losses|Electricity|Low
+
+    add:
+      - name: market for distribution network, electricity, low voltage
+        reference product: distribution network, electricity, low voltage
+        amount: 8.74048809653223e-08
+
+      - name: market for sulfur hexafluoride, liquid
+        reference product: sulfur hexafluoride, liquid
+        unit: kilogram
+        amount: 4.03e-10
+
+      - name: Sulfur hexafluoride
+        categories: air
+        unit: kilogram
+        amount: 4.03e-10 
+
+    replaces:
+      - name: market for electricity, low voltage
+        product: electricity, low voltage
+        location: FR
+
+    replaces in:
+      - location: FR
+
+    except regions:
+      - World
+
+  - name: market for hydrogen, gaseous 25-30 bar
+    reference product: hydrogen, gaseous
+    unit: kilogram
+    includes:
+      - hydrogen pem electrolysis
+      - hydrogen aec electrolysis
+      - hydrogen generic electrolysis
+      - hydrogen_SMR_NG
+      - hydrogen_SMR_NG_wCCS
+      - hydrogen_SMR_biogas_wCCU
+      - hydrogen_Methane_Pyrolysis
+      - hydrogen_ChlorAlkali
+      - hydrogen_SteamCracking
+    replaces:
+      - name: market for hydrogen, gaseous
+        product: hydrogen, gaseous
+        location : GLO
+
+    replaces in:
+      - location: FR
