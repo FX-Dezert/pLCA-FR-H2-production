@@ -1,6 +1,6 @@
 # pLCA-FR-H2-production
 
-This repository contains the code and data that has been used for the article 'Feasibility and environmental impacts of the French Hydrogen Strategy'. Authors: François-Xavier Dézert and Guillaume Batôt. 
+This repository contains the code and data that has been used for the article 'Prospective Life Cycle Assessment of national Hydrogen Production based on project data : a French case study'. Authors: François-Xavier Dézert and Guillaume Batôt. 
 
 The code produces prospective Life Cycle Inventory databases of French Hydrogen Production and Electricity Mixes. 
 Prospective electricity mixes are modelled for the N03, N1, N2, M23, and M0 reference scenarios of the RTE report "Futurs Energétiques 2050", published in 2022.
