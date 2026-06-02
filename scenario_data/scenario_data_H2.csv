@@ -1,0 +1,682 @@
+﻿model,pathway,scenario,region,variables,unit,2019,2020,2025,2030,2035,2040,2050
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Run-of-river hydro,TWh/year,35.41,35.96,39.84,35.61,35.72,35.84,38.00
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Reservoir,TWh/year,12.75,16.26,16.72,18.35,18.40,18.46,19.58
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Pumped storage hydro,TWh/year,4.91,4.95,5.39,2.41,6.95,11.50,15.59
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Renewable|Wind turbines|Onshore,TWh/year,30.24,35.07,35.66,58.68,76.94,95.20,136.88
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Renewable|Wind turbines|Offshore,TWh/year,0.00,0.00,3.32,15.81,60.04,104.28,204.91
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Renewable|Photovoltaic,TWh/year,10.35,11.04,20.40,36.34,87.13,137.91,233.34
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Renewable|Biomass,TWh/year,2.32,2.21,2.63,2.23,2.28,2.33,2.48
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Renewable|Biogas,TWh/year,2.32,2.56,2.47,2.23,2.28,2.33,2.48
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Renewable|Wave,TWh/year,0.00,0.00,0.00,0.00,1.86,3.72,7.98
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Nuclear|Pressure water reactor,TWh/year,338.04,295.08,300.95,294.88,232.69,170.51,0.00
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Nuclear|Evolutionary power reactor,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Nuclear|Small modular reactor,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Thermal|Coal,TWh/year,1.39,1.21,0.60,0.00,0.00,0.00,0.00
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Thermal|Oil|Conventional,TWh/year,1.47,0.23,0.35,0.00,0.00,0.00,0.00
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Thermal|Oil|Cogeneration,TWh/year,0.61,0.52,0.49,0.09,0.04,0.00,0.00
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Thermal|Natural gas|CCP,TWh/year,22.72,19.52,6.92,16.56,9.53,2.51,0.30
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Thermal|Natural gas|Cogeneration,TWh/year,11.02,9.89,4.14,8.03,4.62,1.22,0.15
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Thermal|Natural gas|Conventional,TWh/year,0.69,0.97,3.43,0.50,0.29,0.08,0.01
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Thermal|Hydrogen,TWh/year,0.00,0.00,0.00,0.00,1.60,3.20,14.67
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Flexibilities|Battery,TWh/year,0.00,0.00,0.00,0.17,6.10,12.02,25.21
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Conventional|Waste-to-Energy,TWh/year,1.96,1.94,3.66,1.89,1.72,1.56,1.65
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Import,TWh/year,1.60,2.70,0.34,3.00,5.87,8.73,49.00
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Export,TWh/year,57.70,57.70,89.91,80.92,87.63,94.34,63.78
+remind,SSP2-NPi,M0_ref,FR,Production|Electricity|Total (w/o export correction),TWh/year,533.88,495.12,536.88,574.70,635.85,697.00,767.00
+remind,SSP2-NPi,M0_ref,FR,Transformation|Electricity|High to medium,TWh/year,475.82,438.18,443.65,494.89,552.36,609.83,750.57
+remind,SSP2-NPi,M0_ref,FR,Transformation|Electricity|Medium to low,TWh/year,477.78,440.12,447.31,496.78,554.09,611.39,752.22
+remind,SSP2-NPi,M0_ref,FR,Compensation for losses|Electricity|High,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+remind,SSP2-NPi,M0_ref,FR,Compensation for losses|Electricity|Medium,ratio,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+remind,SSP2-NPi,M0_ref,FR,Compensation for losses|Electricity|Low,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Run-of-river hydro,TWh/year,35.41,35.96,39.84,35.69,35.62,35.55,38.02
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Reservoir,TWh/year,12.75,16.26,16.72,18.39,18.35,18.31,19.58
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Pumped storage hydro,TWh/year,4.91,4.95,5.39,2.41,6.74,11.06,14.24
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Renewable|Wind turbines|Onshore,TWh/year,30.24,35.07,35.66,58.82,76.28,93.74,133.49
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Renewable|Wind turbines|Offshore,TWh/year,0.00,0.00,3.32,15.85,59.68,103.51,197.79
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Renewable|Photovoltaic,TWh/year,10.35,11.04,20.40,36.43,62.60,88.76,140.56
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Renewable|Biomass,TWh/year,2.32,2.21,2.63,2.24,2.28,2.32,2.48
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Renewable|Biogas,TWh/year,2.32,2.56,2.47,2.24,2.28,2.32,2.48
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Renewable|Wave,TWh/year,0.00,0.00,0.00,0.00,0.60,1.20,7.99
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Nuclear|Pressure water reactor,TWh/year,338.04,295.08,300.95,303.91,256.07,208.23,83.69
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Nuclear|Evolutionary power reactor,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Nuclear|Small modular reactor,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Thermal|Coal,TWh/year,1.39,1.21,0.60,0.00,0.00,0.00,0.00
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Thermal|Oil|Conventional,TWh/year,1.47,0.23,0.35,0.00,0.00,0.00,0.00
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Thermal|Oil|Cogeneration,TWh/year,0.61,0.52,0.49,0.00,0.00,0.00,0.00
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Thermal|Natural gas|CCP,TWh/year,22.72,19.52,6.92,15.80,9.15,2.49,0.30
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Thermal|Natural gas|Cogeneration,TWh/year,11.02,9.89,4.14,7.66,4.43,1.21,0.15
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Thermal|Natural gas|Conventional,TWh/year,0.69,0.97,3.43,0.48,0.28,0.08,0.01
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Thermal|Hydrogen,TWh/year,0.00,0.00,0.00,0.00,0.64,1.29,8.18
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Flexibilities|Battery,TWh/year,0.00,0.00,0.00,0.17,1.97,3.77,10.84
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Conventional|Waste-to-Energy,TWh/year,1.96,1.94,3.66,1.89,1.72,1.54,1.65
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Import,TWh/year,1.60,2.70,0.34,3.00,4.98,6.96,41.36
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Export,TWh/year,57.70,57.70,89.91,80.92,88.23,95.53,58.54
+remind,SSP2-NPi,M23_ref,FR,Production|Electricity|Total (w/o export correction),TWh/year,533.88,495.12,536.88,582.90,626.90,670.90,720.00
+remind,SSP2-NPi,M23_ref,FR,Transformation|Electricity|High to medium,TWh/year,475.82,438.18,443.65,503.09,541.94,580.79,701.17
+remind,SSP2-NPi,M23_ref,FR,Transformation|Electricity|Medium to low,TWh/year,477.78,440.12,447.31,504.98,543.66,582.33,702.82
+remind,SSP2-NPi,M23_ref,FR,Compensation for losses|Electricity|High,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+remind,SSP2-NPi,M23_ref,FR,Compensation for losses|Electricity|Medium,ratio,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+remind,SSP2-NPi,M23_ref,FR,Compensation for losses|Electricity|Low,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Run-of-river hydro,TWh/year,35.41,35.96,39.84,35.69,35.91,36.12,38.41
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Reservoir,TWh/year,12.75,16.26,16.72,18.39,18.50,18.61,19.79
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Pumped storage hydro,TWh/year,4.91,4.95,5.39,2.41,6.52,10.63,13.99
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Renewable|Wind turbines|Onshore,TWh/year,30.24,35.07,35.66,58.82,70.85,82.87,108.69
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Renewable|Wind turbines|Offshore,TWh/year,0.00,0.00,3.32,15.85,40.25,64.66,148.45
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Renewable|Photovoltaic,TWh/year,10.35,11.04,20.40,36.43,60.65,84.88,133.81
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Renewable|Biomass,TWh/year,2.32,2.21,2.63,2.24,2.30,2.35,2.50
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Renewable|Biogas,TWh/year,2.32,2.56,2.47,2.24,2.30,2.35,2.50
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Renewable|Wave,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Nuclear|Pressure water reactor,TWh/year,338.04,295.08,300.95,303.91,261.40,218.90,85.62
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Nuclear|Evolutionary power reactor,TWh/year,0.00,0.00,0.00,0.00,18.65,37.30,83.03
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Nuclear|Small modular reactor,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Thermal|Coal,TWh/year,1.39,1.21,0.60,0.00,0.00,0.00,0.00
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Thermal|Oil|Conventional,TWh/year,1.47,0.23,0.35,0.00,0.00,0.00,0.00
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Thermal|Oil|Cogeneration,TWh/year,0.61,0.52,0.49,0.00,0.00,0.00,0.00
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Thermal|Natural gas|CCP,TWh/year,22.72,19.52,6.92,15.80,9.25,2.70,0.31
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Thermal|Natural gas|Cogeneration,TWh/year,11.02,9.89,4.14,7.66,4.49,1.31,0.15
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Thermal|Natural gas|Conventional,TWh/year,0.69,0.97,3.43,0.48,0.28,0.08,0.01
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Thermal|Hydrogen,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,5.28
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Flexibilities|Battery,TWh/year,0.00,0.00,0.00,0.17,0.09,0.00,7.14
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Conventional|Waste-to-Energy,TWh/year,1.96,1.94,3.66,1.89,1.73,1.57,1.67
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Import,TWh/year,1.60,2.70,0.34,3.00,5.35,7.70,33.06
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Export,TWh/year,57.70,57.70,89.91,80.92,82.10,83.27,51.57
+remind,SSP2-NPi,N1_ref,FR,Production|Electricity|Total (w/o export correction),TWh/year,533.88,495.12,536.88,582.90,615.25,647.60,702.90
+remind,SSP2-NPi,N1_ref,FR,Transformation|Electricity|High to medium,TWh/year,475.82,438.18,443.65,503.09,536.77,570.46,682.72
+remind,SSP2-NPi,N1_ref,FR,Transformation|Electricity|Medium to low,TWh/year,477.78,440.12,447.31,504.98,538.51,572.03,684.39
+remind,SSP2-NPi,N1_ref,FR,Compensation for losses|Electricity|High,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+remind,SSP2-NPi,N1_ref,FR,Compensation for losses|Electricity|Medium,ratio,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+remind,SSP2-NPi,N1_ref,FR,Compensation for losses|Electricity|Low,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Run-of-river hydro,TWh/year,35.41,35.96,39.84,35.69,35.91,36.12,38.41
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Reservoir,TWh/year,12.75,16.26,16.72,18.39,18.50,18.61,19.79
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Pumped storage hydro,TWh/year,4.91,4.95,5.39,2.41,6.52,10.63,13.99
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Renewable|Wind turbines|Onshore,TWh/year,30.24,35.07,35.66,58.82,70.85,82.87,108.69
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Renewable|Wind turbines|Offshore,TWh/year,0.00,0.00,3.32,15.85,40.25,64.66,148.45
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Renewable|Photovoltaic,TWh/year,10.35,11.04,20.40,36.43,60.65,84.88,133.81
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Renewable|Biomass,TWh/year,2.32,2.21,2.63,2.24,2.30,2.35,2.50
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Renewable|Biogas,TWh/year,2.32,2.56,2.47,2.24,2.30,2.35,2.50
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Renewable|Wave,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Nuclear|Pressure water reactor,TWh/year,338.04,295.08,300.95,303.91,261.40,218.90,85.62
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Nuclear|Evolutionary power reactor,TWh/year,0.00,0.00,0.00,0.00,18.65,37.30,83.03
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Nuclear|Small modular reactor,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Thermal|Coal,TWh/year,1.39,1.21,0.60,0.00,0.00,0.00,0.00
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Thermal|Oil|Conventional,TWh/year,1.47,0.23,0.35,0.00,0.00,0.00,0.00
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Thermal|Oil|Cogeneration,TWh/year,0.61,0.52,0.49,0.00,0.00,0.00,0.00
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Thermal|Natural gas|CCP,TWh/year,22.72,19.52,6.92,15.80,9.25,2.70,0.31
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Thermal|Natural gas|Cogeneration,TWh/year,11.02,9.89,4.14,7.66,4.49,1.31,0.15
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Thermal|Natural gas|Conventional,TWh/year,0.69,0.97,3.43,0.48,0.28,0.08,0.01
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Thermal|Hydrogen,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,5.28
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Flexibilities|Battery,TWh/year,0.00,0.00,0.00,0.17,0.09,0.00,7.14
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Conventional|Waste-to-Energy,TWh/year,1.96,1.94,3.66,1.89,1.73,1.57,1.67
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Import,TWh/year,1.60,2.70,0.34,3.00,5.35,7.70,33.06
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Export,TWh/year,57.70,57.70,89.91,80.92,82.10,83.27,51.57
+image,SSP2-RCP26,N1_ref,FR,Production|Electricity|Total (w/o export correction),TWh/year,533.88,495.12,536.88,582.90,615.25,647.60,702.90
+image,SSP2-RCP26,N1_ref,FR,Transformation|Electricity|High to medium,TWh/year,475.82,438.18,443.65,503.09,536.77,570.46,682.72
+image,SSP2-RCP26,N1_ref,FR,Transformation|Electricity|Medium to low,TWh/year,477.78,440.12,447.31,504.98,538.51,572.03,684.39
+image,SSP2-RCP26,N1_ref,FR,Compensation for losses|Electricity|High,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+image,SSP2-RCP26,N1_ref,FR,Compensation for losses|Electricity|Medium,ratio,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+image,SSP2-RCP26,N1_ref,FR,Compensation for losses|Electricity|Low,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Run-of-river hydro,TWh/year,35.41,35.96,39.84,35.69,36.72,37.76,38.42
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Reservoir,TWh/year,12.75,16.26,16.72,18.39,18.92,19.45,19.79
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Pumped storage hydro,TWh/year,4.91,4.95,5.39,2.41,6.12,9.84,13.18
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Renewable|Wind turbines|Onshore,TWh/year,30.24,35.07,35.66,58.82,66.71,74.60,96.38
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Renewable|Wind turbines|Offshore,TWh/year,0.00,0.00,3.32,15.85,38.48,61.12,119.87
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Renewable|Photovoltaic,TWh/year,10.35,11.04,20.40,36.43,52.19,67.95,102.23
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Renewable|Biomass,TWh/year,2.32,2.21,2.63,2.24,2.35,2.46,2.51
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Renewable|Biogas,TWh/year,2.32,2.56,2.47,2.24,2.35,2.46,2.51
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Renewable|Wave,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Nuclear|Pressure water reactor,TWh/year,338.04,295.08,300.95,303.91,269.83,235.74,86.44
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Nuclear|Evolutionary power reactor,TWh/year,0.00,0.00,0.00,0.00,20.31,40.63,147.91
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Nuclear|Small modular reactor,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Thermal|Coal,TWh/year,1.39,1.21,0.60,0.00,0.00,0.00,0.00
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Thermal|Oil|Conventional,TWh/year,1.47,0.23,0.35,0.00,0.00,0.00,0.00
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Thermal|Oil|Cogeneration,TWh/year,0.61,0.52,0.49,0.00,0.00,0.00,0.00
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Thermal|Natural gas|CCP,TWh/year,22.72,19.52,6.92,15.80,9.43,3.07,0.25
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Thermal|Natural gas|Cogeneration,TWh/year,11.02,9.89,4.14,7.66,4.57,1.49,0.12
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Thermal|Natural gas|Conventional,TWh/year,0.69,0.97,3.43,0.48,0.29,0.09,0.01
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Thermal|Hydrogen,TWh/year,0.00,0.00,0.00,0.00,0.77,1.55,1.76
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Flexibilities|Battery,TWh/year,0.00,0.00,0.00,0.17,0.09,0.00,0.19
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Conventional|Waste-to-Energy,TWh/year,1.96,1.94,3.66,1.89,1.77,1.64,1.67
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Import,TWh/year,1.60,2.70,0.34,3.00,8.61,14.22,28.03
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Export,TWh/year,57.70,57.70,89.91,80.92,67.84,54.76,48.78
+image,SSP2-RCP26,N2_ref,FR,Production|Electricity|Total (w/o export correction),TWh/year,533.88,495.12,536.88,582.90,598.75,614.60,682.00
+image,SSP2-RCP26,N2_ref,FR,Transformation|Electricity|High to medium,TWh/year,475.82,438.18,443.65,503.09,537.75,572.42,659.58
+image,SSP2-RCP26,N2_ref,FR,Transformation|Electricity|Medium to low,TWh/year,477.78,440.12,447.31,504.98,539.52,574.06,661.25
+image,SSP2-RCP26,N2_ref,FR,Compensation for losses|Electricity|High,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+image,SSP2-RCP26,N2_ref,FR,Compensation for losses|Electricity|Medium,ratio,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+image,SSP2-RCP26,N2_ref,FR,Compensation for losses|Electricity|Low,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Run-of-river hydro,TWh/year,35.41,35.96,39.84,35.69,35.62,35.55,38.02
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Reservoir,TWh/year,12.75,16.26,16.72,18.39,18.35,18.31,19.58
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Pumped storage hydro,TWh/year,4.91,4.95,5.39,2.41,6.74,11.06,14.24
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Renewable|Wind turbines|Onshore,TWh/year,30.24,35.07,35.66,58.82,76.28,93.74,133.49
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Renewable|Wind turbines|Offshore,TWh/year,0.00,0.00,3.32,15.85,59.68,103.51,197.79
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Renewable|Photovoltaic,TWh/year,10.35,11.04,20.40,36.43,62.60,88.76,140.56
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Renewable|Biomass,TWh/year,2.32,2.21,2.63,2.24,2.28,2.32,2.48
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Renewable|Biogas,TWh/year,2.32,2.56,2.47,2.24,2.28,2.32,2.48
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Renewable|Wave,TWh/year,0.00,0.00,0.00,0.00,0.60,1.20,7.99
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Nuclear|Pressure water reactor,TWh/year,338.04,295.08,300.95,303.91,256.07,208.23,83.69
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Nuclear|Evolutionary power reactor,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Nuclear|Small modular reactor,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Thermal|Coal,TWh/year,1.39,1.21,0.60,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Thermal|Oil|Conventional,TWh/year,1.47,0.23,0.35,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Thermal|Oil|Cogeneration,TWh/year,0.61,0.52,0.49,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Thermal|Natural gas|CCP,TWh/year,22.72,19.52,6.92,15.80,9.15,2.49,0.30
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Thermal|Natural gas|Cogeneration,TWh/year,11.02,9.89,4.14,7.66,4.43,1.21,0.15
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Thermal|Natural gas|Conventional,TWh/year,0.69,0.97,3.43,0.48,0.28,0.08,0.01
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Thermal|Hydrogen,TWh/year,0.00,0.00,0.00,0.00,0.64,1.29,8.18
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Flexibilities|Battery,TWh/year,0.00,0.00,0.00,0.17,1.97,3.77,10.84
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Conventional|Waste-to-Energy,TWh/year,1.96,1.94,3.66,1.89,1.72,1.54,1.65
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Import,TWh/year,1.60,2.70,0.34,3.00,4.98,6.96,41.36
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Export,TWh/year,57.70,57.70,89.91,80.92,88.23,95.53,58.54
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Electricity|Total (w/o export correction),TWh/year,533.88,495.12,536.88,582.90,626.90,670.90,720.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Transformation|Electricity|High to medium,TWh/year,475.82,438.18,443.65,503.09,541.94,580.79,701.17
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Transformation|Electricity|Medium to low,TWh/year,477.78,440.12,447.31,504.98,543.66,582.33,702.82
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Compensation for losses|Electricity|High,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Compensation for losses|Electricity|Medium,ratio,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Compensation for losses|Electricity|Low,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Efficiency|AE|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Efficiency|Hydrogen|AE|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Efficiency|Hydrogen|AE|Conversion Factor,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Efficiency|Hydrogen|AE|Electricity,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Efficiency|Hydrogen|AE|Lifespan,-,0.10,0.10,0.10,0.15,0.15,0.15,0.15
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Efficiency|Hydrogen|PEM|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Efficiency|Hydrogen|PEM|Electricity,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Efficiency|Hydrogen|PEM|Conversion Factor,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Efficiency|Hydrogen|PEM|Lifespan,-,0.10,0.10,0.10,0.10,0.10,0.15,0.15
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Efficiency|PEM|Stack|Activated Carbon,-,0.10,0.10,0.11,0.13,0.14,0.16,0.20
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Efficiency|PEM|Stack|Iridium,-,0.01,0.01,0.02,0.03,0.05,0.09,0.25
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Efficiency|PEM|Stack|Nafion,-,0.10,0.10,0.13,0.20,0.28,0.40,0.80
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Efficiency|PEM|Stack|Platinum,-,0.10,0.10,0.12,0.15,0.19,0.24,0.37
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Efficiency|PEM|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Efficiency|PEM|Stack|Titanium,-,0.01,0.01,0.02,0.02,0.04,0.06,0.15
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Hydrogen|AE,kt/year,0.00,0.00,2.40,4.54,4.54,4.54,4.54
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Hydrogen|PEM,kt/year,0.00,0.00,0.78,80.53,93.94,93.94,93.94
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Hydrogen|GenericElectrolysis,kt/year,0.00,0.00,0.00,381.22,907.46,890.40,890.40
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Hydrogen|SMR_NG,kt/year,466.40,466.40,466.40,466.40,466.40,466.40,466.40
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Hydrogen|SMR_NG_wCCS,kt/year,0.00,0.00,10.61,10.61,10.61,10.61,10.61
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Hydrogen|SMR_biogas_wCCU,kt/year,0.00,0.00,0.00,20.00,20.00,20.00,20.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Hydrogen|Methane_Pyrolysis,kt/year,0.00,0.00,0.00,0.00,18.01,18.01,18.01
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Hydrogen|Coproduct_SteamCracking,kt/year,38.34,38.34,38.34,38.34,38.34,38.34,38.34
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|Hydrogen|Coproduct_ChlorAlkali,kt/year,31.78,31.78,31.78,31.78,31.78,31.78,31.78
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|PEM|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2,FR,Production|AE|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Run-of-river hydro,TWh/year,35.41,35.96,39.84,35.69,35.62,35.55,38.02
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Reservoir,TWh/year,12.75,16.26,16.72,18.39,18.35,18.31,19.58
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Pumped storage hydro,TWh/year,4.91,4.95,5.39,2.41,6.74,11.06,14.24
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Renewable|Wind turbines|Onshore,TWh/year,30.24,35.07,35.66,58.82,76.28,93.74,133.49
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Renewable|Wind turbines|Offshore,TWh/year,0.00,0.00,3.32,15.85,59.68,103.51,197.79
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Renewable|Photovoltaic,TWh/year,10.35,11.04,20.40,36.43,62.60,88.76,140.56
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Renewable|Biomass,TWh/year,2.32,2.21,2.63,2.24,2.28,2.32,2.48
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Renewable|Biogas,TWh/year,2.32,2.56,2.47,2.24,2.28,2.32,2.48
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Renewable|Wave,TWh/year,0.00,0.00,0.00,0.00,0.60,1.20,7.99
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Nuclear|Pressure water reactor,TWh/year,338.04,295.08,300.95,303.91,256.07,208.23,83.69
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Nuclear|Evolutionary power reactor,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Nuclear|Small modular reactor,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Thermal|Coal,TWh/year,1.39,1.21,0.60,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Thermal|Oil|Conventional,TWh/year,1.47,0.23,0.35,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Thermal|Oil|Cogeneration,TWh/year,0.61,0.52,0.49,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Thermal|Natural gas|CCP,TWh/year,22.72,19.52,6.92,15.80,9.15,2.49,0.30
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Thermal|Natural gas|Cogeneration,TWh/year,11.02,9.89,4.14,7.66,4.43,1.21,0.15
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Thermal|Natural gas|Conventional,TWh/year,0.69,0.97,3.43,0.48,0.28,0.08,0.01
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Thermal|Hydrogen,TWh/year,0.00,0.00,0.00,0.00,0.64,1.29,8.18
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Flexibilities|Battery,TWh/year,0.00,0.00,0.00,0.17,1.97,3.77,10.84
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Conventional|Waste-to-Energy,TWh/year,1.96,1.94,3.66,1.89,1.72,1.54,1.65
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Import,TWh/year,1.60,2.70,0.34,3.00,4.98,6.96,41.36
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Export,TWh/year,57.70,57.70,89.91,80.92,88.23,95.53,58.54
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Electricity|Total (w/o export correction),TWh/year,533.88,495.12,536.88,582.90,626.90,670.90,720.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Transformation|Electricity|High to medium,TWh/year,475.82,438.18,443.65,503.09,541.94,580.79,701.17
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Transformation|Electricity|Medium to low,TWh/year,477.78,440.12,447.31,504.98,543.66,582.33,702.82
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Compensation for losses|Electricity|High,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Compensation for losses|Electricity|Medium,ratio,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Compensation for losses|Electricity|Low,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Efficiency|AE|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Efficiency|Hydrogen|AE|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Efficiency|Hydrogen|AE|Conversion Factor,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Efficiency|Hydrogen|AE|Electricity,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Efficiency|Hydrogen|AE|Lifespan,-,0.10,0.10,0.10,0.15,0.15,0.15,0.15
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Efficiency|Hydrogen|PEM|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Efficiency|Hydrogen|PEM|Electricity,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Efficiency|Hydrogen|PEM|Conversion Factor,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Efficiency|Hydrogen|PEM|Lifespan,-,0.10,0.10,0.10,0.10,0.10,0.15,0.15
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Efficiency|PEM|Stack|Activated Carbon,-,0.10,0.10,0.11,0.13,0.14,0.16,0.20
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Efficiency|PEM|Stack|Iridium,-,0.01,0.01,0.02,0.03,0.05,0.09,0.25
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Efficiency|PEM|Stack|Nafion,-,0.10,0.10,0.13,0.20,0.28,0.40,0.80
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Efficiency|PEM|Stack|Platinum,-,0.10,0.10,0.12,0.15,0.19,0.24,0.37
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Efficiency|PEM|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Efficiency|PEM|Stack|Titanium,-,0.01,0.01,0.02,0.02,0.04,0.06,0.15
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Hydrogen|AE,kt/year,0.00,0.00,2.40,4.54,4.54,4.54,4.54
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Hydrogen|PEM,kt/year,0.00,0.00,0.78,23.03,23.03,23.03,23.03
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Hydrogen|GenericElectrolysis,kt/year,0.00,0.00,0.00,1.60,1.60,1.60,1.60
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Hydrogen|SMR_NG,kt/year,466.40,466.40,466.40,466.40,466.40,466.40,466.40
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Hydrogen|SMR_NG_wCCS,kt/year,0.00,0.00,10.61,10.61,10.61,10.61,10.61
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Hydrogen|SMR_biogas_wCCU,kt/year,0.00,0.00,0.00,20.00,20.00,20.00,20.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Hydrogen|Methane_Pyrolysis,kt/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Hydrogen|Coproduct_SteamCracking,kt/year,38.34,38.34,38.34,38.34,38.34,38.34,38.34
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|Hydrogen|Coproduct_ChlorAlkali,kt/year,31.78,31.78,31.78,31.78,31.78,31.78,31.78
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|PEM|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2,FR,Production|AE|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Run-of-river hydro,TWh/year,35.41,35.96,39.84,35.69,35.62,35.55,38.02
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Reservoir,TWh/year,12.75,16.26,16.72,18.39,18.35,18.31,19.58
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Pumped storage hydro,TWh/year,4.91,4.95,5.39,2.41,6.74,11.06,14.24
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Renewable|Wind turbines|Onshore,TWh/year,30.24,35.07,35.66,58.82,76.28,93.74,133.49
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Renewable|Wind turbines|Offshore,TWh/year,0.00,0.00,3.32,15.85,59.68,103.51,197.79
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Renewable|Photovoltaic,TWh/year,10.35,11.04,20.40,36.43,62.60,88.76,140.56
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Renewable|Biomass,TWh/year,2.32,2.21,2.63,2.24,2.28,2.32,2.48
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Renewable|Biogas,TWh/year,2.32,2.56,2.47,2.24,2.28,2.32,2.48
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Renewable|Wave,TWh/year,0.00,0.00,0.00,0.00,0.60,1.20,7.99
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Nuclear|Pressure water reactor,TWh/year,338.04,295.08,300.95,303.91,256.07,208.23,83.69
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Nuclear|Evolutionary power reactor,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Nuclear|Small modular reactor,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Thermal|Coal,TWh/year,1.39,1.21,0.60,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Thermal|Oil|Conventional,TWh/year,1.47,0.23,0.35,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Thermal|Oil|Cogeneration,TWh/year,0.61,0.52,0.49,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Thermal|Natural gas|CCP,TWh/year,22.72,19.52,6.92,15.80,9.15,2.49,0.30
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Thermal|Natural gas|Cogeneration,TWh/year,11.02,9.89,4.14,7.66,4.43,1.21,0.15
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Thermal|Natural gas|Conventional,TWh/year,0.69,0.97,3.43,0.48,0.28,0.08,0.01
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Thermal|Hydrogen,TWh/year,0.00,0.00,0.00,0.00,0.64,1.29,8.18
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Flexibilities|Battery,TWh/year,0.00,0.00,0.00,0.17,1.97,3.77,10.84
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Conventional|Waste-to-Energy,TWh/year,1.96,1.94,3.66,1.89,1.72,1.54,1.65
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Import,TWh/year,1.60,2.70,0.34,3.00,4.98,6.96,41.36
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Export,TWh/year,57.70,57.70,89.91,80.92,88.23,95.53,58.54
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Electricity|Total (w/o export correction),TWh/year,533.88,495.12,536.88,582.90,626.90,670.90,720.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Transformation|Electricity|High to medium,TWh/year,475.82,438.18,443.65,503.09,541.94,580.79,701.17
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Transformation|Electricity|Medium to low,TWh/year,477.78,440.12,447.31,504.98,543.66,582.33,702.82
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Compensation for losses|Electricity|High,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Compensation for losses|Electricity|Medium,ratio,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Compensation for losses|Electricity|Low,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Efficiency|AE|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Efficiency|Hydrogen|AE|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Efficiency|Hydrogen|AE|Conversion Factor,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Efficiency|Hydrogen|AE|Electricity,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Efficiency|Hydrogen|AE|Lifespan,-,0.10,0.10,0.10,0.15,0.15,0.15,0.15
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Efficiency|Hydrogen|PEM|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Efficiency|Hydrogen|PEM|Electricity,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Efficiency|Hydrogen|PEM|Conversion Factor,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Efficiency|Hydrogen|PEM|Lifespan,-,0.10,0.10,0.10,0.10,0.10,0.15,0.15
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Activated Carbon,-,0.10,0.10,0.11,0.13,0.14,0.16,0.20
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Iridium,-,0.01,0.01,0.02,0.03,0.05,0.09,0.25
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Nafion,-,0.10,0.10,0.13,0.20,0.28,0.40,0.80
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Platinum,-,0.10,0.10,0.12,0.15,0.19,0.24,0.37
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Titanium,-,0.01,0.01,0.02,0.02,0.04,0.06,0.15
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Hydrogen|AE,kt/year,0.00,0.00,2.40,4.54,4.54,4.54,4.54
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Hydrogen|PEM,kt/year,0.00,0.00,0.78,80.53,93.94,93.94,93.94
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Hydrogen|GenericElectrolysis,kt/year,0.00,0.00,0.00,381.22,907.46,890.40,890.40
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Hydrogen|SMR_NG,kt/year,466.40,466.40,466.40,443.08,419.76,419.76,419.76
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Hydrogen|SMR_NG_wCCS,kt/year,0.00,0.00,10.61,10.61,10.61,10.61,10.61
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Hydrogen|SMR_biogas_wCCU,kt/year,0.00,0.00,0.00,20.00,20.00,20.00,20.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Hydrogen|Methane_Pyrolysis,kt/year,0.00,0.00,0.00,0.00,18.01,18.01,18.01
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Hydrogen|Coproduct_SteamCracking,kt/year,38.34,38.34,38.34,38.34,38.34,38.34,38.34
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|Hydrogen|Coproduct_ChlorAlkali,kt/year,31.78,31.78,31.78,31.78,31.78,31.78,31.78
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|PEM|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_UB-H2_-10%SMR,FR,Production|AE|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Run-of-river hydro,TWh/year,35.41,35.96,39.84,35.69,35.62,35.55,38.02
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Reservoir,TWh/year,12.75,16.26,16.72,18.39,18.35,18.31,19.58
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Pumped storage hydro,TWh/year,4.91,4.95,5.39,2.41,6.74,11.06,14.24
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Renewable|Wind turbines|Onshore,TWh/year,30.24,35.07,35.66,58.82,76.28,93.74,133.49
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Renewable|Wind turbines|Offshore,TWh/year,0.00,0.00,3.32,15.85,59.68,103.51,197.79
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Renewable|Photovoltaic,TWh/year,10.35,11.04,20.40,36.43,62.60,88.76,140.56
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Renewable|Biomass,TWh/year,2.32,2.21,2.63,2.24,2.28,2.32,2.48
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Renewable|Biogas,TWh/year,2.32,2.56,2.47,2.24,2.28,2.32,2.48
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Renewable|Wave,TWh/year,0.00,0.00,0.00,0.00,0.60,1.20,7.99
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Nuclear|Pressure water reactor,TWh/year,338.04,295.08,300.95,303.91,256.07,208.23,83.69
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Nuclear|Evolutionary power reactor,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Nuclear|Small modular reactor,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Thermal|Coal,TWh/year,1.39,1.21,0.60,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Thermal|Oil|Conventional,TWh/year,1.47,0.23,0.35,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Thermal|Oil|Cogeneration,TWh/year,0.61,0.52,0.49,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Thermal|Natural gas|CCP,TWh/year,22.72,19.52,6.92,15.80,9.15,2.49,0.30
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Thermal|Natural gas|Cogeneration,TWh/year,11.02,9.89,4.14,7.66,4.43,1.21,0.15
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Thermal|Natural gas|Conventional,TWh/year,0.69,0.97,3.43,0.48,0.28,0.08,0.01
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Thermal|Hydrogen,TWh/year,0.00,0.00,0.00,0.00,0.64,1.29,8.18
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Flexibilities|Battery,TWh/year,0.00,0.00,0.00,0.17,1.97,3.77,10.84
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Conventional|Waste-to-Energy,TWh/year,1.96,1.94,3.66,1.89,1.72,1.54,1.65
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Import,TWh/year,1.60,2.70,0.34,3.00,4.98,6.96,41.36
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Export,TWh/year,57.70,57.70,89.91,80.92,88.23,95.53,58.54
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Electricity|Total (w/o export correction),TWh/year,533.88,495.12,536.88,582.90,626.90,670.90,720.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Transformation|Electricity|High to medium,TWh/year,475.82,438.18,443.65,503.09,541.94,580.79,701.17
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Transformation|Electricity|Medium to low,TWh/year,477.78,440.12,447.31,504.98,543.66,582.33,702.82
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Compensation for losses|Electricity|High,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Compensation for losses|Electricity|Medium,ratio,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Compensation for losses|Electricity|Low,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Efficiency|AE|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Efficiency|Hydrogen|AE|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Efficiency|Hydrogen|AE|Conversion Factor,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Efficiency|Hydrogen|AE|Electricity,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Efficiency|Hydrogen|AE|Lifespan,-,0.10,0.10,0.10,0.15,0.15,0.15,0.15
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Efficiency|Hydrogen|PEM|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Efficiency|Hydrogen|PEM|Electricity,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Efficiency|Hydrogen|PEM|Conversion Factor,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Efficiency|Hydrogen|PEM|Lifespan,-,0.10,0.10,0.10,0.10,0.10,0.15,0.15
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Activated Carbon,-,0.10,0.10,0.11,0.13,0.14,0.16,0.20
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Iridium,-,0.01,0.01,0.02,0.03,0.05,0.09,0.25
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Nafion,-,0.10,0.10,0.13,0.20,0.28,0.40,0.80
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Platinum,-,0.10,0.10,0.12,0.15,0.19,0.24,0.37
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Titanium,-,0.01,0.01,0.02,0.02,0.04,0.06,0.15
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Hydrogen|AE,kt/year,0.00,0.00,2.40,4.54,4.54,4.54,4.54
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Hydrogen|PEM,kt/year,0.00,0.00,0.78,23.03,23.03,23.03,23.03
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Hydrogen|GenericElectrolysis,kt/year,0.00,0.00,0.00,1.60,1.60,1.60,1.60
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Hydrogen|SMR_NG,kt/year,466.40,466.40,466.40,443.08,419.76,419.76,419.76
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Hydrogen|SMR_NG_wCCS,kt/year,0.00,0.00,10.61,10.61,10.61,10.61,10.61
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Hydrogen|SMR_biogas_wCCU,kt/year,0.00,0.00,0.00,20.00,20.00,20.00,20.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Hydrogen|Methane_Pyrolysis,kt/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Hydrogen|Coproduct_SteamCracking,kt/year,38.34,38.34,38.34,38.34,38.34,38.34,38.34
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|Hydrogen|Coproduct_ChlorAlkali,kt/year,31.78,31.78,31.78,31.78,31.78,31.78,31.78
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|PEM|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,M23_LB-H2_-10%SMR,FR,Production|AE|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Run-of-river hydro,TWh/year,35.41,35.96,39.84,35.69,35.91,36.12,38.41
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Reservoir,TWh/year,12.75,16.26,16.72,18.39,18.50,18.61,19.79
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Pumped storage hydro,TWh/year,4.91,4.95,5.39,2.41,6.52,10.63,13.99
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Renewable|Wind turbines|Onshore,TWh/year,30.24,35.07,35.66,58.82,70.85,82.87,108.69
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Renewable|Wind turbines|Offshore,TWh/year,0.00,0.00,3.32,15.85,40.25,64.66,148.45
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Renewable|Photovoltaic,TWh/year,10.35,11.04,20.40,36.43,60.65,84.88,133.81
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Renewable|Biomass,TWh/year,2.32,2.21,2.63,2.24,2.30,2.35,2.50
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Renewable|Biogas,TWh/year,2.32,2.56,2.47,2.24,2.30,2.35,2.50
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Renewable|Wave,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Nuclear|Pressure water reactor,TWh/year,338.04,295.08,300.95,303.91,261.40,218.90,85.62
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Nuclear|Evolutionary power reactor,TWh/year,0.00,0.00,0.00,0.00,18.65,37.30,83.03
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Nuclear|Small modular reactor,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Thermal|Coal,TWh/year,1.39,1.21,0.60,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Thermal|Oil|Conventional,TWh/year,1.47,0.23,0.35,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Thermal|Oil|Cogeneration,TWh/year,0.61,0.52,0.49,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Thermal|Natural gas|CCP,TWh/year,22.72,19.52,6.92,15.80,9.25,2.70,0.31
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Thermal|Natural gas|Cogeneration,TWh/year,11.02,9.89,4.14,7.66,4.49,1.31,0.15
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Thermal|Natural gas|Conventional,TWh/year,0.69,0.97,3.43,0.48,0.28,0.08,0.01
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Thermal|Hydrogen,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,5.28
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Flexibilities|Battery,TWh/year,0.00,0.00,0.00,0.17,0.09,0.00,7.14
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Conventional|Waste-to-Energy,TWh/year,1.96,1.94,3.66,1.89,1.73,1.57,1.67
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Import,TWh/year,1.60,2.70,0.34,3.00,5.35,7.70,33.06
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Export,TWh/year,57.70,57.70,89.91,80.92,82.10,83.27,51.57
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Electricity|Total (w/o export correction),TWh/year,533.88,495.12,536.88,582.90,615.25,647.60,702.90
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Transformation|Electricity|High to medium,TWh/year,475.82,438.18,443.65,503.09,536.77,570.46,682.72
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Transformation|Electricity|Medium to low,TWh/year,477.78,440.12,447.31,504.98,538.51,572.03,684.39
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Compensation for losses|Electricity|High,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Compensation for losses|Electricity|Medium,ratio,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Compensation for losses|Electricity|Low,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Efficiency|AE|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Efficiency|Hydrogen|AE|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Efficiency|Hydrogen|AE|Conversion Factor,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Efficiency|Hydrogen|AE|Electricity,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Efficiency|Hydrogen|AE|Lifespan,-,0.10,0.10,0.10,0.15,0.15,0.15,0.15
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Efficiency|Hydrogen|PEM|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Efficiency|Hydrogen|PEM|Electricity,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Efficiency|Hydrogen|PEM|Conversion Factor,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Efficiency|Hydrogen|PEM|Lifespan,-,0.10,0.10,0.10,0.10,0.10,0.15,0.15
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Efficiency|PEM|Stack|Activated Carbon,-,0.10,0.10,0.11,0.13,0.14,0.16,0.20
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Efficiency|PEM|Stack|Iridium,-,0.01,0.01,0.02,0.03,0.05,0.09,0.25
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Efficiency|PEM|Stack|Nafion,-,0.10,0.10,0.13,0.20,0.28,0.40,0.80
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Efficiency|PEM|Stack|Platinum,-,0.10,0.10,0.12,0.15,0.19,0.24,0.37
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Efficiency|PEM|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Efficiency|PEM|Stack|Titanium,-,0.01,0.01,0.02,0.02,0.04,0.06,0.15
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Hydrogen|AE,kt/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|Hydrogen|PEM,kt/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|PEM|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N1_ref,FR,Production|AE|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Run-of-river hydro,TWh/year,35.41,35.96,39.84,35.69,36.72,37.76,38.42
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Reservoir,TWh/year,12.75,16.26,16.72,18.39,18.92,19.45,19.79
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Pumped storage hydro,TWh/year,4.91,4.95,5.39,2.41,6.12,9.84,13.18
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Renewable|Wind turbines|Onshore,TWh/year,30.24,35.07,35.66,58.82,66.71,74.60,96.38
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Renewable|Wind turbines|Offshore,TWh/year,0.00,0.00,3.32,15.85,38.48,61.12,119.87
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Renewable|Photovoltaic,TWh/year,10.35,11.04,20.40,36.43,52.19,67.95,102.23
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Renewable|Biomass,TWh/year,2.32,2.21,2.63,2.24,2.35,2.46,2.51
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Renewable|Biogas,TWh/year,2.32,2.56,2.47,2.24,2.35,2.46,2.51
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Renewable|Wave,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Nuclear|Pressure water reactor,TWh/year,338.04,295.08,300.95,303.91,269.83,235.74,86.44
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Nuclear|Evolutionary power reactor,TWh/year,0.00,0.00,0.00,0.00,20.31,40.63,147.91
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Nuclear|Small modular reactor,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Thermal|Coal,TWh/year,1.39,1.21,0.60,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Thermal|Oil|Conventional,TWh/year,1.47,0.23,0.35,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Thermal|Oil|Cogeneration,TWh/year,0.61,0.52,0.49,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Thermal|Natural gas|CCP,TWh/year,22.72,19.52,6.92,15.80,9.43,3.07,0.25
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Thermal|Natural gas|Cogeneration,TWh/year,11.02,9.89,4.14,7.66,4.57,1.49,0.12
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Thermal|Natural gas|Conventional,TWh/year,0.69,0.97,3.43,0.48,0.29,0.09,0.01
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Thermal|Hydrogen,TWh/year,0.00,0.00,0.00,0.00,0.77,1.55,1.76
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Flexibilities|Battery,TWh/year,0.00,0.00,0.00,0.17,0.09,0.00,0.19
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Conventional|Waste-to-Energy,TWh/year,1.96,1.94,3.66,1.89,1.77,1.64,1.67
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Import,TWh/year,1.60,2.70,0.34,3.00,8.61,14.22,28.03
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Export,TWh/year,57.70,57.70,89.91,80.92,67.84,54.76,48.78
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Electricity|Total (w/o export correction),TWh/year,533.88,495.12,536.88,582.90,598.75,614.60,682.00
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Transformation|Electricity|High to medium,TWh/year,475.82,438.18,443.65,503.09,537.75,572.42,659.58
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Transformation|Electricity|Medium to low,TWh/year,477.78,440.12,447.31,504.98,539.52,574.06,661.25
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Compensation for losses|Electricity|High,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Compensation for losses|Electricity|Medium,ratio,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Compensation for losses|Electricity|Low,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Efficiency|AE|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Efficiency|Hydrogen|AE|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Efficiency|Hydrogen|AE|Conversion Factor,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Efficiency|Hydrogen|AE|Electricity,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Efficiency|Hydrogen|AE|Lifespan,-,0.10,0.10,0.10,0.15,0.15,0.15,0.15
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Efficiency|Hydrogen|PEM|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Efficiency|Hydrogen|PEM|Electricity,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Efficiency|Hydrogen|PEM|Conversion Factor,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Efficiency|Hydrogen|PEM|Lifespan,-,0.10,0.10,0.10,0.10,0.10,0.15,0.15
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Efficiency|PEM|Stack|Activated Carbon,-,0.10,0.10,0.11,0.13,0.14,0.16,0.20
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Efficiency|PEM|Stack|Iridium,-,0.01,0.01,0.02,0.03,0.05,0.09,0.25
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Efficiency|PEM|Stack|Nafion,-,0.10,0.10,0.13,0.20,0.28,0.40,0.80
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Efficiency|PEM|Stack|Platinum,-,0.10,0.10,0.12,0.15,0.19,0.24,0.37
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Efficiency|PEM|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Efficiency|PEM|Stack|Titanium,-,0.01,0.01,0.02,0.02,0.04,0.06,0.15
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Hydrogen|AE,kt/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|Hydrogen|PEM,kt/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|PEM|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N2_ref,FR,Production|AE|Stack,-,0.00,0.00,0.00,1.00,0.50,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Run-of-river hydro,TWh/year,35.41,35.96,39.84,35.69,35.69,35.69,38.54
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Reservoir,TWh/year,12.75,16.26,16.72,18.39,18.39,18.39,19.85
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Pumped storage hydro,TWh/year,4.91,4.95,5.39,2.41,5.81,9.21,11.64
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Renewable|Wind turbines|Onshore,TWh/year,30.24,35.07,35.66,58.82,63.25,67.69,80.75
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Renewable|Wind turbines|Offshore,TWh/year,0.00,0.00,3.32,15.85,29.75,43.66,72.55
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Renewable|Photovoltaic,TWh/year,10.35,11.04,20.40,36.43,46.24,56.06,79.82
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Renewable|Biomass,TWh/year,2.32,2.21,2.63,2.24,3.23,4.22,4.56
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Renewable|Biogas,TWh/year,2.32,2.56,2.47,2.24,3.23,4.22,4.56
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Renewable|Wave,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Nuclear|Pressure water reactor,TWh/year,338.04,295.08,300.95,303.91,292.50,281.08,138.96
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Nuclear|Evolutionary power reactor,TWh/year,0.00,0.00,0.00,0.00,18.82,37.63,151.16
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Nuclear|Small modular reactor,TWh/year,0.00,0.00,0.00,0.00,2.88,5.77,25.15
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Thermal|Coal,TWh/year,1.39,1.21,0.60,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Thermal|Oil|Conventional,TWh/year,1.47,0.23,0.35,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Thermal|Oil|Cogeneration,TWh/year,0.61,0.52,0.49,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Thermal|Natural gas|CCP,TWh/year,22.72,19.52,6.92,15.80,8.44,1.08,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Thermal|Natural gas|Cogeneration,TWh/year,11.02,9.89,4.14,7.66,4.09,0.52,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Thermal|Natural gas|Conventional,TWh/year,0.69,0.97,3.43,0.48,0.29,0.09,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Thermal|Hydrogen,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Flexibilities|Battery,TWh/year,0.00,0.00,0.00,0.17,0.09,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Conventional|Waste-to-Energy,TWh/year,1.96,1.94,3.66,1.89,1.72,1.55,1.68
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Import,TWh/year,1.60,2.70,0.34,3.00,4.74,6.48,26.34
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Export,TWh/year,57.70,57.70,89.91,80.92,86.15,91.38,42.89
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Electricity|Total (w/o export correction),TWh/year,533.88,495.12,536.88,582.90,620.58,658.26,672.12
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Transformation|Electricity|High to medium,TWh/year,475.82,438.18,443.65,503.09,537.45,571.81,653.89
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Transformation|Electricity|Medium to low,TWh/year,477.78,440.12,447.31,504.98,539.17,573.36,655.57
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Compensation for losses|Electricity|High,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Compensation for losses|Electricity|Medium,ratio,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Compensation for losses|Electricity|Low,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Efficiency|AE|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Efficiency|Hydrogen|AE|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Efficiency|Hydrogen|AE|Conversion Factor,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Efficiency|Hydrogen|AE|Electricity,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Efficiency|Hydrogen|AE|Lifespan,-,0.10,0.10,0.10,0.15,0.15,0.15,0.15
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Efficiency|Hydrogen|PEM|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Efficiency|Hydrogen|PEM|Electricity,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Efficiency|Hydrogen|PEM|Conversion Factor,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Efficiency|Hydrogen|PEM|Lifespan,-,0.10,0.10,0.10,0.10,0.10,0.15,0.15
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Efficiency|PEM|Stack|Activated Carbon,-,0.10,0.10,0.11,0.13,0.14,0.16,0.20
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Efficiency|PEM|Stack|Iridium,-,0.01,0.01,0.02,0.03,0.05,0.09,0.25
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Efficiency|PEM|Stack|Nafion,-,0.10,0.10,0.13,0.20,0.28,0.40,0.80
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Efficiency|PEM|Stack|Platinum,-,0.10,0.10,0.12,0.15,0.19,0.24,0.37
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Efficiency|PEM|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Efficiency|PEM|Stack|Titanium,-,0.01,0.01,0.02,0.02,0.04,0.06,0.15
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Hydrogen|AE,kt/year,0.00,0.00,2.40,4.54,4.54,4.54,4.54
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Hydrogen|PEM,kt/year,0.00,0.00,0.78,80.53,93.94,93.94,93.94
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Hydrogen|GenericElectrolysis,kt/year,0.00,0.00,0.00,381.22,907.46,890.40,890.40
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Hydrogen|SMR_NG,kt/year,466.40,466.40,466.40,466.40,466.40,466.40,466.40
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Hydrogen|SMR_NG_wCCS,kt/year,0.00,0.00,10.61,10.61,10.61,10.61,10.61
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Hydrogen|SMR_biogas_wCCU,kt/year,0.00,0.00,0.00,20.00,20.00,20.00,20.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Hydrogen|Methane_Pyrolysis,kt/year,0.00,0.00,0.00,0.00,18.01,18.01,18.01
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Hydrogen|Coproduct_SteamCracking,kt/year,38.34,38.34,38.34,38.34,38.34,38.34,38.34
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|Hydrogen|Coproduct_ChlorAlkali,kt/year,31.78,31.78,31.78,31.78,31.78,31.78,31.78
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|PEM|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2,FR,Production|AE|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Run-of-river hydro,TWh/year,35.41,35.96,39.84,35.69,35.69,35.69,38.54
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Reservoir,TWh/year,12.75,16.26,16.72,18.39,18.39,18.39,19.85
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Pumped storage hydro,TWh/year,4.91,4.95,5.39,2.41,5.81,9.21,11.64
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Renewable|Wind turbines|Onshore,TWh/year,30.24,35.07,35.66,58.82,63.25,67.69,80.75
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Renewable|Wind turbines|Offshore,TWh/year,0.00,0.00,3.32,15.85,29.75,43.66,72.55
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Renewable|Photovoltaic,TWh/year,10.35,11.04,20.40,36.43,46.24,56.06,79.82
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Renewable|Biomass,TWh/year,2.32,2.21,2.63,2.24,3.23,4.22,4.56
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Renewable|Biogas,TWh/year,2.32,2.56,2.47,2.24,3.23,4.22,4.56
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Renewable|Wave,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Nuclear|Pressure water reactor,TWh/year,338.04,295.08,300.95,303.91,292.50,281.08,138.96
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Nuclear|Evolutionary power reactor,TWh/year,0.00,0.00,0.00,0.00,18.82,37.63,151.16
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Nuclear|Small modular reactor,TWh/year,0.00,0.00,0.00,0.00,2.88,5.77,25.15
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Thermal|Coal,TWh/year,1.39,1.21,0.60,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Thermal|Oil|Conventional,TWh/year,1.47,0.23,0.35,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Thermal|Oil|Cogeneration,TWh/year,0.61,0.52,0.49,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Thermal|Natural gas|CCP,TWh/year,22.72,19.52,6.92,15.80,8.44,1.08,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Thermal|Natural gas|Cogeneration,TWh/year,11.02,9.89,4.14,7.66,4.09,0.52,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Thermal|Natural gas|Conventional,TWh/year,0.69,0.97,3.43,0.48,0.29,0.09,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Thermal|Hydrogen,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Flexibilities|Battery,TWh/year,0.00,0.00,0.00,0.17,0.09,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Conventional|Waste-to-Energy,TWh/year,1.96,1.94,3.66,1.89,1.72,1.55,1.68
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Import,TWh/year,1.60,2.70,0.34,3.00,4.74,6.48,26.34
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Export,TWh/year,57.70,57.70,89.91,80.92,86.15,91.38,42.89
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Electricity|Total (w/o export correction),TWh/year,533.88,495.12,536.88,582.90,620.58,658.26,672.12
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Transformation|Electricity|High to medium,TWh/year,475.82,438.18,443.65,503.09,537.45,571.81,653.89
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Transformation|Electricity|Medium to low,TWh/year,477.78,440.12,447.31,504.98,539.17,573.36,655.57
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Compensation for losses|Electricity|High,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Compensation for losses|Electricity|Medium,ratio,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Compensation for losses|Electricity|Low,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Efficiency|AE|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Efficiency|Hydrogen|AE|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Efficiency|Hydrogen|AE|Conversion Factor,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Efficiency|Hydrogen|AE|Electricity,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Efficiency|Hydrogen|AE|Lifespan,-,0.10,0.10,0.10,0.15,0.15,0.15,0.15
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Efficiency|Hydrogen|PEM|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Efficiency|Hydrogen|PEM|Electricity,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Efficiency|Hydrogen|PEM|Conversion Factor,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Efficiency|Hydrogen|PEM|Lifespan,-,0.10,0.10,0.10,0.10,0.10,0.15,0.15
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Efficiency|PEM|Stack|Activated Carbon,-,0.10,0.10,0.11,0.13,0.14,0.16,0.20
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Efficiency|PEM|Stack|Iridium,-,0.01,0.01,0.02,0.03,0.05,0.09,0.25
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Efficiency|PEM|Stack|Nafion,-,0.10,0.10,0.13,0.20,0.28,0.40,0.80
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Efficiency|PEM|Stack|Platinum,-,0.10,0.10,0.12,0.15,0.19,0.24,0.37
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Efficiency|PEM|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Efficiency|PEM|Stack|Titanium,-,0.01,0.01,0.02,0.02,0.04,0.06,0.15
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Hydrogen|AE,kt/year,0.00,0.00,2.40,4.54,4.54,4.54,4.54
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Hydrogen|PEM,kt/year,0.00,0.00,0.78,23.03,23.03,23.03,23.03
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Hydrogen|GenericElectrolysis,kt/year,0.00,0.00,0.00,1.60,1.60,1.60,1.60
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Hydrogen|SMR_NG,kt/year,466.40,466.40,466.40,466.40,466.40,466.40,466.40
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Hydrogen|SMR_NG_wCCS,kt/year,0.00,0.00,10.61,10.61,10.61,10.61,10.61
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Hydrogen|SMR_biogas_wCCU,kt/year,0.00,0.00,0.00,20.00,20.00,20.00,20.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Hydrogen|Methane_Pyrolysis,kt/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Hydrogen|Coproduct_SteamCracking,kt/year,38.34,38.34,38.34,38.34,38.34,38.34,38.34
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|Hydrogen|Coproduct_ChlorAlkali,kt/year,31.78,31.78,31.78,31.78,31.78,31.78,31.78
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|PEM|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2,FR,Production|AE|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Run-of-river hydro,TWh/year,35.41,35.96,39.84,35.69,35.69,35.69,38.54
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Reservoir,TWh/year,12.75,16.26,16.72,18.39,18.39,18.39,19.85
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Pumped storage hydro,TWh/year,4.91,4.95,5.39,2.41,5.81,9.21,11.64
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Renewable|Wind turbines|Onshore,TWh/year,30.24,35.07,35.66,58.82,63.25,67.69,80.75
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Renewable|Wind turbines|Offshore,TWh/year,0.00,0.00,3.32,15.85,29.75,43.66,72.55
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Renewable|Photovoltaic,TWh/year,10.35,11.04,20.40,36.43,46.24,56.06,79.82
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Renewable|Biomass,TWh/year,2.32,2.21,2.63,2.24,3.23,4.22,4.56
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Renewable|Biogas,TWh/year,2.32,2.56,2.47,2.24,3.23,4.22,4.56
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Renewable|Wave,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Nuclear|Pressure water reactor,TWh/year,338.04,295.08,300.95,303.91,292.50,281.08,138.96
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Nuclear|Evolutionary power reactor,TWh/year,0.00,0.00,0.00,0.00,18.82,37.63,151.16
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Nuclear|Small modular reactor,TWh/year,0.00,0.00,0.00,0.00,2.88,5.77,25.15
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Thermal|Coal,TWh/year,1.39,1.21,0.60,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Thermal|Oil|Conventional,TWh/year,1.47,0.23,0.35,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Thermal|Oil|Cogeneration,TWh/year,0.61,0.52,0.49,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Thermal|Natural gas|CCP,TWh/year,22.72,19.52,6.92,15.80,8.44,1.08,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Thermal|Natural gas|Cogeneration,TWh/year,11.02,9.89,4.14,7.66,4.09,0.52,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Thermal|Natural gas|Conventional,TWh/year,0.69,0.97,3.43,0.48,0.29,0.09,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Thermal|Hydrogen,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Flexibilities|Battery,TWh/year,0.00,0.00,0.00,0.17,0.09,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Conventional|Waste-to-Energy,TWh/year,1.96,1.94,3.66,1.89,1.72,1.55,1.68
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Import,TWh/year,1.60,2.70,0.34,3.00,4.74,6.48,26.34
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Export,TWh/year,57.70,57.70,89.91,80.92,86.15,91.38,42.89
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Electricity|Total (w/o export correction),TWh/year,533.88,495.12,536.88,582.90,620.58,658.26,672.12
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Transformation|Electricity|High to medium,TWh/year,475.82,438.18,443.65,503.09,537.45,571.81,653.89
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Transformation|Electricity|Medium to low,TWh/year,477.78,440.12,447.31,504.98,539.17,573.36,655.57
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Compensation for losses|Electricity|High,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Compensation for losses|Electricity|Medium,ratio,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Compensation for losses|Electricity|Low,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Efficiency|AE|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Efficiency|Hydrogen|AE|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Efficiency|Hydrogen|AE|Conversion Factor,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Efficiency|Hydrogen|AE|Electricity,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Efficiency|Hydrogen|AE|Lifespan,-,0.10,0.10,0.10,0.15,0.15,0.15,0.15
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Efficiency|Hydrogen|PEM|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Efficiency|Hydrogen|PEM|Electricity,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Efficiency|Hydrogen|PEM|Conversion Factor,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Efficiency|Hydrogen|PEM|Lifespan,-,0.10,0.10,0.10,0.10,0.10,0.15,0.15
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Activated Carbon,-,0.10,0.10,0.11,0.13,0.14,0.16,0.20
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Iridium,-,0.01,0.01,0.02,0.03,0.05,0.09,0.25
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Nafion,-,0.10,0.10,0.13,0.20,0.28,0.40,0.80
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Platinum,-,0.10,0.10,0.12,0.15,0.19,0.24,0.37
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Titanium,-,0.01,0.01,0.02,0.02,0.04,0.06,0.15
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Hydrogen|AE,kt/year,0.00,0.00,2.40,4.54,4.54,4.54,4.54
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Hydrogen|PEM,kt/year,0.00,0.00,0.78,80.53,93.94,93.94,93.94
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Hydrogen|GenericElectrolysis,kt/year,0.00,0.00,0.00,381.22,907.46,890.40,890.40
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Hydrogen|SMR_NG,kt/year,466.40,466.40,466.40,443.08,419.76,419.76,419.76
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Hydrogen|SMR_NG_wCCS,kt/year,0.00,0.00,10.61,10.61,10.61,10.61,10.61
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Hydrogen|SMR_biogas_wCCU,kt/year,0.00,0.00,0.00,20.00,20.00,20.00,20.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Hydrogen|Methane_Pyrolysis,kt/year,0.00,0.00,0.00,0.00,18.01,18.01,18.01
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Hydrogen|Coproduct_SteamCracking,kt/year,38.34,38.34,38.34,38.34,38.34,38.34,38.34
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|Hydrogen|Coproduct_ChlorAlkali,kt/year,31.78,31.78,31.78,31.78,31.78,31.78,31.78
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|PEM|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_UB-H2_-10%SMR,FR,Production|AE|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Run-of-river hydro,TWh/year,35.41,35.96,39.84,35.69,35.69,35.69,38.54
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Reservoir,TWh/year,12.75,16.26,16.72,18.39,18.39,18.39,19.85
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Pumped storage hydro,TWh/year,4.91,4.95,5.39,2.41,5.81,9.21,11.64
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Renewable|Wind turbines|Onshore,TWh/year,30.24,35.07,35.66,58.82,63.25,67.69,80.75
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Renewable|Wind turbines|Offshore,TWh/year,0.00,0.00,3.32,15.85,29.75,43.66,72.55
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Renewable|Photovoltaic,TWh/year,10.35,11.04,20.40,36.43,46.24,56.06,79.82
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Renewable|Biomass,TWh/year,2.32,2.21,2.63,2.24,3.23,4.22,4.56
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Renewable|Biogas,TWh/year,2.32,2.56,2.47,2.24,3.23,4.22,4.56
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Renewable|Wave,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Nuclear|Pressure water reactor,TWh/year,338.04,295.08,300.95,303.91,292.50,281.08,138.96
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Nuclear|Evolutionary power reactor,TWh/year,0.00,0.00,0.00,0.00,18.82,37.63,151.16
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Nuclear|Small modular reactor,TWh/year,0.00,0.00,0.00,0.00,2.88,5.77,25.15
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Thermal|Coal,TWh/year,1.39,1.21,0.60,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Thermal|Oil|Conventional,TWh/year,1.47,0.23,0.35,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Thermal|Oil|Cogeneration,TWh/year,0.61,0.52,0.49,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Thermal|Natural gas|CCP,TWh/year,22.72,19.52,6.92,15.80,8.44,1.08,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Thermal|Natural gas|Cogeneration,TWh/year,11.02,9.89,4.14,7.66,4.09,0.52,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Thermal|Natural gas|Conventional,TWh/year,0.69,0.97,3.43,0.48,0.29,0.09,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Thermal|Hydrogen,TWh/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Flexibilities|Battery,TWh/year,0.00,0.00,0.00,0.17,0.09,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Conventional|Waste-to-Energy,TWh/year,1.96,1.94,3.66,1.89,1.72,1.55,1.68
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Import,TWh/year,1.60,2.70,0.34,3.00,4.74,6.48,26.34
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Export,TWh/year,57.70,57.70,89.91,80.92,86.15,91.38,42.89
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Electricity|Total (w/o export correction),TWh/year,533.88,495.12,536.88,582.90,620.58,658.26,672.12
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Transformation|Electricity|High to medium,TWh/year,475.82,438.18,443.65,503.09,537.45,571.81,653.89
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Transformation|Electricity|Medium to low,TWh/year,477.78,440.12,447.31,504.98,539.17,573.36,655.57
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Compensation for losses|Electricity|High,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Compensation for losses|Electricity|Medium,ratio,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Compensation for losses|Electricity|Low,ratio,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Efficiency|AE|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Efficiency|Hydrogen|AE|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Efficiency|Hydrogen|AE|Conversion Factor,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Efficiency|Hydrogen|AE|Electricity,-,0.54,0.54,0.54,0.59,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Efficiency|Hydrogen|AE|Lifespan,-,0.10,0.10,0.10,0.15,0.15,0.15,0.15
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Efficiency|Hydrogen|PEM|Capacity Factor,-,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Efficiency|Hydrogen|PEM|Electricity,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Efficiency|Hydrogen|PEM|Conversion Factor,-,0.52,0.52,0.52,0.58,0.59,0.60,0.61
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Efficiency|Hydrogen|PEM|Lifespan,-,0.10,0.10,0.10,0.10,0.10,0.15,0.15
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Activated Carbon,-,0.10,0.10,0.11,0.13,0.14,0.16,0.20
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Iridium,-,0.01,0.01,0.02,0.03,0.05,0.09,0.25
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Nafion,-,0.10,0.10,0.13,0.20,0.28,0.40,0.80
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Platinum,-,0.10,0.10,0.12,0.15,0.19,0.24,0.37
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Steel,-,0.10,0.10,0.12,0.14,0.16,0.18,0.25
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Efficiency|PEM|Stack|Titanium,-,0.01,0.01,0.02,0.02,0.04,0.06,0.15
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Hydrogen|AE,kt/year,0.00,0.00,2.40,4.54,4.54,4.54,4.54
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Hydrogen|PEM,kt/year,0.00,0.00,0.78,23.03,23.03,23.03,23.03
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Hydrogen|GenericElectrolysis,kt/year,0.00,0.00,0.00,1.60,1.60,1.60,1.60
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Hydrogen|SMR_NG,kt/year,466.40,466.40,466.40,443.08,419.76,419.76,419.76
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Hydrogen|SMR_NG_wCCS,kt/year,0.00,0.00,10.61,10.61,10.61,10.61,10.61
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Hydrogen|SMR_biogas_wCCU,kt/year,0.00,0.00,0.00,20.00,20.00,20.00,20.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Hydrogen|Methane_Pyrolysis,kt/year,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Hydrogen|Coproduct_SteamCracking,kt/year,38.34,38.34,38.34,38.34,38.34,38.34,38.34
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|Hydrogen|Coproduct_ChlorAlkali,kt/year,31.78,31.78,31.78,31.78,31.78,31.78,31.78
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|PEM|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+TIAM-UCL,SSP2-RCP45,N03_LB-H2_-10%SMR,FR,Production|AE|Stack,-,0.00,0.00,0.00,0.00,0.00,0.00,0.00
